@@ -1,3 +1,5 @@
+
+
 How did viewing a diff between two versions of a file help you see the bug that was introduced?
 
 I was tedious to look for differenes with FC as well, because its still manual. 
@@ -20,3 +22,6 @@ How can you use the commands git log and git diff to view the history of files?
 How might using version control make you more confident to make changes that could break something?
 
 Now that you have your workspace set up, what do you want to try using Git for?
+
+
+Just to commit new changes.
