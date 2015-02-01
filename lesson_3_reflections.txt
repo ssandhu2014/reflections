@@ -5,4 +5,8 @@ Q-2 -> Why might you want to always pull changes manually rather than having Git
 
 A-2 -> Becuase I don't want to have half cooked changes pulled automatically, I would like to manually pull the changes when I feel it's OK to pull now.
 
+Q-3 -> Describe the differences between forks, clones, and branches. When would you use one instead of another?
+A-3 -> forks is cloning the repository within GitHub. Cloning meaning cloning from GitHub to Local or from Local to Local. Branches are created on a repository.
+
+
 
