@@ -1,27 +1,24 @@
 
 
-How did viewing a diff between two versions of a file help you see the bug that was introduced?
+Q-1 -> How did viewing a diff between two versions of a file help you see the bug that was introduced?
 
-I was tedious to look for differenes with FC as well, because its still manual. 
-But I must say its far far better than going over each line and comparing, 
-which defenity is the most error prone way to do this.
+A-1 -> By viewing diff between two versions of a file, we can visually see what lines (of code) were added/deleted/modified between two versions. By looking at those we can easily pinpoint the change that introduced the bug.
 
+Q-2 -> How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
 
-How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+A-2 -> Becuase I can track my changes and pin-point any bad change I did in past and also I can go back and fix it in newer version.
 
+Q-3 -> What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
 
-I can go compare the code changes and see where and what changes have been done.
-And I can revert the changes if I don't think those are good one.
-
-
-What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+A-3 -> I could choose to have very big commit, which is definitely not a good thing (as per general rule of one commit per logical change) or I could commit small changes which does not make up one logical change.
 
 
-How can you use the commands git log and git diff to view the history of files?
+Q-4 -> How can you use the commands git log and git diff to view the history of files?
+A-4 -> git log shows the history of commits with the "comments", so by looking at commit log I can guess what commit would have introduced the bug and then by running the git diff command I can find the difference between that commit and previous commit to see what exactly code changes were done.
 
-How might using version control make you more confident to make changes that could break something?
+Q-5 -> How might using version control make you more confident to make changes that could break something?
+A-5 -> Because I can make branches for experimental features and do my expermental work on those without worrying breaking master branch code.
 
-Now that you have your workspace set up, what do you want to try using Git for?
+Q-6 -> Now that you have your workspace set up, what do you want to try using Git for?
+A-6 -> I want to use Git for my hobby projects.
 
-
-Just to commit new changes.
