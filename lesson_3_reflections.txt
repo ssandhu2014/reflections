@@ -8,5 +8,12 @@ A-2 -> Becuase I don't want to have half cooked changes pulled automatically, I 
 Q-3 -> Describe the differences between forks, clones, and branches. When would you use one instead of another?
 A-3 -> forks is cloning the repository within GitHub. Cloning meaning cloning from GitHub to Local or from Local to Local. Branches are created on a repository.
 
+Q-4 -> What is the benefit of having a copy of the last known state of the remote stored locally?
+A-4 -> It's tells the deviation from local master branch.
+
+Q-5 -> How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A-5 -> It's hard to collaborate without Git and GitHub. This is so far the best way to collarborate.
+
+
 
 
